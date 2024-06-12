@@ -10,3 +10,6 @@
     @apply font-poppins;
   }
 }
+.shadow-white {
+  box-shadow: 0 0 0 1px rgba(231, 226, 226, 0.5);
+}
